@@ -37,7 +37,7 @@ This is a template example for lab journaling. Students in Matt Crump's Human Co
 
 ### [TEELab: Tropical ECOLOGY & Entomology LAB](https://teelabntu.wixsite.com/home)
 
-<a href = "https://crumplab.github.io">
+<a href = "https://teelabntu.wixsite.com/home">
 ![](images/logo.png)
 </a>
 </div>

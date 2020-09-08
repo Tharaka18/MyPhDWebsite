@@ -17,9 +17,9 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **IDP**
+# **Independent Development Plan (IDP)**
 
-This is my Independent Development Plan (IDP) to reach my research targets and building towards my overall career and personal development goals. This will be reviewed regularly and update throughout my time in the TEELab.
+This is my IDP to reach my research targets and building towards my overall career and personal development goals. This will be reviewed regularly and update throughout my time in the TEELab.
 
 ## My plans
 

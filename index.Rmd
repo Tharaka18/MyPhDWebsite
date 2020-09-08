@@ -24,9 +24,12 @@ This is a template example for lab journaling. Students in Matt Crump's Human Co
 ## My plans
 
 1. 3 to 5 years: Sustaining a research grant and running independent studies related to my PhD work 
--Learn how to write a compelling grant proposal 
+- Learn how to write a compelling grant proposal 
 -	Read and research about the latest techniques in the field of agriculture biodiversity studies 
 
+2. 1 year: Successfully complete the PhD qualifying examination 
+-	Draft a well-researched proposal 
+-	Prepare for questions that may be asked about the study by reading and preparing references to cite 
 
 
 </div>

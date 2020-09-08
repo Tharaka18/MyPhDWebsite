@@ -21,7 +21,7 @@ output: html_document
 
 This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
 
-## How to use
+## My plance
 
 1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
 
@@ -35,7 +35,7 @@ This is a template example for lab journaling. Students in Matt Crump's Human Co
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+### [TEELab: Tropical ECOLOGY & Entomology LAB](https://teelabntu.wixsite.com/home)
 
 <a href = "https://crumplab.github.io">
 ![](images/logo.png)

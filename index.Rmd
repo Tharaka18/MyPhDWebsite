@@ -19,16 +19,20 @@ output: html_document
 
 # **IDP**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+This is my Independent Development Plan (IDP) to reach my research targets and building towards my overall career and personal development goals. This will be reviewed regularly and update throughout my time in the TEELab.
 
 ## My plans
 
-1. 3 to 5 years: Sustaining a research grant and running independent studies related to my PhD work 
-- Learn how to write a compelling grant proposal 
--	Read and research about the latest techniques in the field of agriculture biodiversity studies 
+(1). 3 to 5 years: Sustaining a research grant and running independent studies related to my PhD work 
 
-2. 1 year: Successfully complete the PhD qualifying examination 
+- Learn how to write a compelling grant proposal
+
+-	Read and research about the latest techniques in the field of agriculture biodiversity studies
+
+(2). 1 year: Successfully complete the PhD qualifying examination
+
 -	Draft a well-researched proposal 
+
 -	Prepare for questions that may be asked about the study by reading and preparing references to cite 
 
 

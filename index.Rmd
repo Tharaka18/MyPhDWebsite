@@ -23,13 +23,10 @@ This is a template example for lab journaling. Students in Matt Crump's Human Co
 
 ## My plans
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+1. 3 to 5 years: Sustaining a research grant and running independent studies related to my PhD work 
+-Learn how to write a compelling grant proposal 
+-	Read and research about the latest techniques in the field of agriculture biodiversity studies 
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
-
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
-
-4. Change everything to make it your own.
 
 
 </div>

@@ -23,25 +23,24 @@ This is an .Rmd file. It is plain text with special features. Any time you write
 
 Crop heterogeneity may be particularly important in situations where patches of semi-natural/natural vegetation are too small to support viable population sizes of species. They are also a component of the agricultural landscape that can be shaped by policy, and it has been argued that cropping systems may be beneficial to local economics, as well as the environment. Hence, increasing crop heterogeneity could be a way in which to both positively affect crop production (and farmers' livelihoods) and biodiversity conservation. However, for farmers to be able to adapt their farmlands for biodiversity-friendly farming, they will need to have the confidence that such approaches are also economically efficient.
 
-      As farmers’ interest and attitudes significantly influence the decision-making process on what to plant and how to manage both crops and non-crop areas, integrating socio-economic factors is essential to develop sound management options, as well as to understand agroecosystems itself. This project is designed to incorporate the major socio-economic factors that influence heterogeneous agroecosystems, which is rarely done in agricultural studies.
-      
-      Aim: The main aim of this project is the synthesis of knowledge and the application of scientific findings for future management. Outcomes from the analysis will advance scientific understanding of agroecosystems and help construct more effective policies that ensure sustainable agricultural landscapes. 
-      
-Last compiled: `r Sys.Date()`
+As farmers’ interest and attitudes significantly influence the decision-making process on what to plant and how to manage both crops and non-crop areas, integrating socio-economic factors is essential to develop sound management options, as well as to understand agroecosystems itself. This project is designed to incorporate the major socio-economic factors that influence heterogeneous agroecosystems, which is rarely done in agricultural studies.
 
-Notice that whatever you define as a top level header, automatically gets put into the table of contents bar on the left. 
+Aim: The main aim of this project is the synthesis of knowledge and the application of scientific findings for future management. Outcomes from the analysis will advance scientific understanding of agroecosystems and help construct more effective policies that ensure sustainable agricultural landscapes.
 
-## Second level header
+17 | 09 | 2020 Last compiled: `r Sys.Date()`
 
-You can add more headers by adding more hashtags. These won't be put into the table of contents
+### Study 1: Farmland heterogeneity to reduce the agricultural risks 
 
-### third level header
+#### Highlights
 
-Here's an even lower level header
+- The effect of crop heterogeneity (i.e. crop compositional and configurational heterogeneity) on production (yield and price), pest activities, and agrochemical usage will be tested. 
+
+- Crop heterogeneity effects on farmers’ profit margin will be tested. 
+-Crop heterogeneity effects on contract farming will be tested.
 
 # My second post (note the order)
 
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
+2020 | 09 | 08 Last compiled: `r Sys.Date()`
 
 I'm writing this tutorial going from the top down. And, this is how it will be printed. So, notice the second post is second in the list. If you want your most recent post to be at the top, then make a new post starting at the top. If you want the oldest first, do, then keep adding to the bottom
 

@@ -69,7 +69,7 @@ This is my IDP to reach my research targets and building towards my overall care
 
 ### [TEELab: Tropical ECOLOGY & Entomology LAB](https://teelabntu.wixsite.com/home)
 
-<a href = "https://teelabntu.wixsite.com/home">
-![](images/logo.png)
+<a href = "~/Desktop/Github/testGitHub/MyPhDWebsite/images>
+![](images/IMG_8057.JPG)
 </a>
 </div>

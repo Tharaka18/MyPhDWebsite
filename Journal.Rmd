@@ -9,6 +9,7 @@ output:
     toc_depth: 1
     #code_folding: hide
 ---
+17 | 09 | 2020 Last compiled: `r Sys.Date()`
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
@@ -27,7 +28,6 @@ As farmers’ interest and attitudes significantly influence the decision-making
 
 Aim: The main aim of this project is the synthesis of knowledge and the application of scientific findings for future management. Outcomes from the analysis will advance scientific understanding of agroecosystems and help construct more effective policies that ensure sustainable agricultural landscapes.
 
-17 | 09 | 2020 Last compiled: `r Sys.Date()`
 
 ### Study 1: Farmland heterogeneity to reduce the agricultural risks 
 

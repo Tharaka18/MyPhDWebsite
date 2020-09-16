@@ -29,18 +29,22 @@ Aim: The main aim of this project is the synthesis of knowledge and the applicat
 
 ### Study 1: Farmland heterogeneity to reduce the agricultural risks 
 
+
 #### Highlights
 
 - The effect of crop heterogeneity (i.e. crop compositional and configurational heterogeneity) on production (yield and price), pest activities, and agrochemical usage will be tested. 
 
 - Crop heterogeneity effects on farmers’ profit margin will be tested. 
--Crop heterogeneity effects on contract farming will be tested.
 
-# My second post (note the order)
+- Crop heterogeneity effects on contract farming will be tested.
 
-2020 | 09 | 08 Last compiled: `r Sys.Date()`
+#### Description 
 
-I'm writing this tutorial going from the top down. And, this is how it will be printed. So, notice the second post is second in the list. If you want your most recent post to be at the top, then make a new post starting at the top. If you want the oldest first, do, then keep adding to the bottom
+Crop heterogeneity can be seen as having two key components: (i) crop compositional heterogeneity (the number and evenness of crop types) and (ii) crop configurational heterogeneity (spatial arrangement of crop fields, Fahrig et al., 2011).
+
+![](images/image2.png)
+</a>
+</div>
 
 # Adding R stuff
 

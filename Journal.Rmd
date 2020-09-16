@@ -42,13 +42,27 @@ Aim: The main aim of this project is the synthesis of knowledge and the applicat
 
 Crop heterogeneity can be seen as having two key components: (i) crop compositional heterogeneity (the number and evenness of crop types) and (ii) crop configurational heterogeneity (spatial arrangement of crop fields, Fahrig et al., 2011).
 
+Heterogeneity of farmlands that the farmer produces may be an effective way to help farmers deal with several types of agricultural risks such as price and yield risk (see Bowman and Zilberman, 2013). Different biological and geophysical factors can cause yield risks; e.g. water availability (floods or droughts), soil fertility and pest or weed infestations. On the other hand, price risk is the risk whereby the price received for their production will be higher or lower than average in a given year. 
+
+I aim to study crops with varied degrees of risk featured in a heterogenous farmland and obtain data on price and yield risk by market and social surveys. Subsequently, the optimal portfolio of crop types to co-exist can be found by taking into account the means and variances of market prices (for price risk) of each crop type and/or climate and crop identity (for yield risk) data. If the risks (yield or price) for two crops are poorly correlated, then I propose farmers can grow those crop types together. 
+
 ![](images/logotwo.png)
+Figure 1. Representations of farmland heterogeneity, adapted from (Sirami et al., 2019).
 
-</a>
-</div>
+#### Question
+
+1.	Can farmland heterogeneity be adapted to reduce the agricultural risk? 
+
+2.	Can less frequent crops, such as vegetables, reduce the agricultural risks when used in conjunction with monoculture crops?
+
+#### Hypotheses
+
+1.	Inclusion of low-risk crop types might ensure famers’ livelihoods by providing stable yield.
+
+2. Understanding the importance of spatial co-existence between different types of farmlands, which will advance the knowledge of crop identity, might boost the farmers income as opposed to if crop types are chosen randomly.
 
 
-# Adding R stuff
+### Adding R stuff
 
 So far this is just a blog where you can write in plain text and serve your writing to a webpage. One of the main purposes of this lab journal is to record your progress learning R. The reason I am asking you to use this process is because you can both make a website, and a lab journal, and learn R all in R-studio. This makes everything really convenient and in the sam place. 
 

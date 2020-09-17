@@ -47,7 +47,6 @@ Heterogeneity of farmlands that the farmer produces may be an effective way to h
 I aim to study crops with varied degrees of risk featured in a heterogenous farmland and obtain data on price and yield risk by market and social surveys. Subsequently, the optimal portfolio of crop types to co-exist can be found by taking into account the means and variances of market prices (for price risk) of each crop type and/or climate and crop identity (for yield risk) data. If the risks (yield or price) for two crops are poorly correlated, then I propose farmers can grow those crop types together. 
 
 ![](images/logotwo.png)
-Figure 1. Representations of farmland heterogeneity, adapted from (Sirami et al., 2019).
 
 #### Questions
 

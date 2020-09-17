@@ -49,7 +49,7 @@ I aim to study crops with varied degrees of risk featured in a heterogenous farm
 ![](images/logotwo.png)
 Figure 1. Representations of farmland heterogeneity, adapted from (Sirami et al., 2019).
 
-#### Question
+#### Questions
 
 1.	Can farmland heterogeneity be adapted to reduce the agricultural risk? 
 
@@ -95,6 +95,19 @@ Market surveys
 
 I will adopt state-of-the-art modeling methods such as Bayesian hierarchical models and Bayesian networks, as well as machine learning algorithms and frequentist statistical models (LMM, GLMM, GLS, GAM). However, the final decision will depend on the data I will be received through the questioner surveys. Simulated data and R-cords for each analysis can be found below. 
 
+
+#### References
+AESD-DCS (Agriculture and Environment Statistics Division of the Department of Census and Statistics), 2019. Paddy statistics, Sri Lanka [WWW Document]. URL http://www.statistics.gov.lk/agriculture/Paddy Statistics/PaddyStats.htm
+
+Bowman, M.S., Zilberman, D., 2013. Economic factors affecting diversified farming systems. Ecol. Soc. 18, 33. https://doi.org/10.5751/ES-05574-180133
+
+Fahrig, L., Baudry, J., Brotons, L., Burel, F.G., Crist, T.O., Fuller, R.J., Sirami, C., Siriwardena, G.M., Martin, J.-L., 2011. Functional landscape heterogeneity and animal biodiversity in agricultural landscapes. Ecol. Lett. 14, 101–112. https://doi.org/10.1111/j.1461-0248.2010.01559.x
+
+Myers, N., Mittermeier, R.A., Mittermeier, C.G., da Fonseca, G.A.B., Kent, J., 2000. Biodiversity hotspots for conservation priorities. Nature 403, 853–858. https://doi.org/doi:10.1038/35002501
+
+Sirami, C., Gross, N., Baillod, A.B., Bertrand, C., Carrié, R., Hass, A., Henckel, L., Miguet, P., Vuillot, C., Alignier, A., Girard, J., Batáry, P., Clough, Y., Violle, C., Giralt, D., Bota, G., Badenhausser, I., Lefebvre, G., Gauffre, B., Vialatte, A., Calatayud, F., Gil-Tena, A., Tischendorf, L., Mitchell, S., Lindsay, K., Georges, R., Hilaire, S., Recasens, J., Solé-Senan, X.O., Robleño, I., Bosch, J., Barrientos, J.A., Ricarte, A., Marcos-Garcia, M.Á., Miñano, J., Mathevet, R., Gibon, A., Baudry, J., Balent, G., Poulin, B., Burel, F., Tscharntke, T., Bretagnolle, V., Siriwardena, G., Ouin, A., Brotons, L., Martin, J.-L., Fahrig, L., 2019. Increasing crop heterogeneity enhances multitrophic diversity across agricultural regions. Proc. Natl. Acad. Sci. 116, 16442–16447. https://doi.org/10.1073/pnas.1906419116
+
+SLBCHM (Sri Lanka Biodiversity Clearing House Mechanism), 2020. No Title [WWW Document]. Agro Ecol. Reg. URL http://lk.chm-cbd.net/?page_id=176
 
 
 

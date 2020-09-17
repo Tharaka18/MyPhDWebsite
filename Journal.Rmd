@@ -18,7 +18,7 @@ IMPORTANT: Here I will update studies that I may carry out during my PhD at ASE-
 
 17 | 09 | 2020 Last compiled: `r Sys.Date()`
 
-# Socio-Economic Factors Affecting Crop Heterogeneity 
+## Socio-Economic Factors Affecting Crop Heterogeneity 
 
 Crop heterogeneity may be particularly important in situations where patches of semi-natural/natural vegetation are too small to support viable population sizes of species. They are also a component of the agricultural landscape that can be shaped by policy, and it has been argued that cropping systems may be beneficial to local economics, as well as the environment. Hence, increasing crop heterogeneity could be a way in which to both positively affect crop production (and farmers' livelihoods) and biodiversity conservation. However, for farmers to be able to adapt their farmlands for biodiversity-friendly farming, they will need to have the confidence that such approaches are also economically efficient.
 

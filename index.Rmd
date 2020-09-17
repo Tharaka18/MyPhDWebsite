@@ -17,11 +17,11 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-### **INDEPENDENT DEVELOPMENT PLAN (IDP)**
+#### **IDP: INDEPENDENT DEVELOPMENT PLAN**
 
 This is my IDP to reach my research targets and building towards my overall career and personal development goals. This will be reviewed regularly and update throughout my time in the TEELab.
 
-#### TIMELINE, GOAL AND ACTION TO BE TAKEN 
+###### TIMELINE, GOAL AND ACTION TO BE TAKEN 
 
 (1). 3 to 5 years: Sustaining a research grant and running independent studies related to my PhD work 
 

@@ -71,7 +71,7 @@ I will survey smallholder dominated heterogeneous farmlands in Sri Lanka as the 
 
 #### Variables
 
-Farmer surveys
+Farmer-based surveys
 
 (1)	Crop and non-crop area at each farmland, including a crop list
 
@@ -83,7 +83,7 @@ Farmer surveys
 
 (5)	Terms of contract farming and profit loss 
 
-Market surveys
+Market-based surveys
 
 (1)	Price variability thought the year
 

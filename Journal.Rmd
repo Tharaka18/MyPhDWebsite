@@ -24,7 +24,7 @@ Crop heterogeneity may be particularly important in situations where patches of 
 
 As farmers’ interest and attitudes significantly influence the decision-making process on what to plant and how to manage both crops and non-crop areas, integrating socio-economic factors is essential to develop sound management options, as well as to understand agroecosystems itself. This project is designed to incorporate the major socio-economic factors that influence heterogeneous agroecosystems, which is rarely done in agricultural studies.
 
-Aim: The main aim of this project is the synthesis of knowledge and the application of scientific findings for future management. Outcomes from the analysis will advance scientific understanding of agroecosystems and help construct more effective policies that ensure sustainable agricultural landscapes.
+Aim: The main aim of this project is the synthesis of knowledge and the application of scientific findings for future management. Outcomes from the analysis will advance scientific understanding of agroecosystems and help construct more effective policies that ensure sustainable agricultural landscapes that work for both biodiversity and people.
 
 
 ### Study 1: Farmland heterogeneity to reduce the agricultural risks 
@@ -61,9 +61,40 @@ Figure 1. Representations of farmland heterogeneity, adapted from (Sirami et al.
 
 2. Understanding the importance of spatial co-existence between different types of farmlands, which will advance the knowledge of crop identity, might boost the farmers income as opposed to if crop types are chosen randomly.
 
+#### Experimental Design
+
+All the data will be collected through questioner surveys.  
+
+#### Study sites
+
+I will survey smallholder dominated heterogeneous farmlands in Sri Lanka as the study cases. Sri Lanka is a tropical island with 46 agro-ecological regions across three different climatic zones (i.e. 15 wet, 11 dry and 20 intermediate) (SLBCHM 2020), and belongs to the Western Ghats and Sri Lanka biodiversity hotspot (Myers et al., 2000). Double rice cultivation is consistent throughout the island as the major staple crop (AESD-DCS 2019). Consequently, it has been noted that fertilizer (especially nitrogen application) and pesticide use, is much higher and thus, agriculture intensification is an important environmental issue in Sri Lanka.
+
+#### Variables
+
+Farmer surveys
+
+(1)	Crop and non-crop area at each farmland, including a crop list
+
+(2)	Yield from each crop type
+
+(3)	Price for Agrochemicals (herbicides, insecticide) and fertilizer¬––this is a proxy for pest attack 
+
+(4)	Yield and profit loss due to floods or droughts
+
+(5)	Terms of contract farming and profit loss 
+
+Market surveys
+
+(1)	Price variability thought the year
+
+(2)	Profit from each crop (the margin of buying and selling)
+
+(3)	Profit of contract farming
+
 #### Data Analysis
 
-I will adopt state-of-the-art modeling methods such as “ecological-economic land-use change model” (see Dislich et al., 2018), Bayesian hierarchical models and Bayesian networks, as well as machine learning algorithms and frequentist statistical models (LMM, GLMM, GLS, GAM). However, the final decision will depend on the data I will be received through the questioner surveys. Simulated data and R-cords for each analysis can be found below. 
+I will adopt state-of-the-art modeling methods such as Bayesian hierarchical models and Bayesian networks, as well as machine learning algorithms and frequentist statistical models (LMM, GLMM, GLS, GAM). However, the final decision will depend on the data I will be received through the questioner surveys. Simulated data and R-cords for each analysis can be found below. 
+
 
 
 

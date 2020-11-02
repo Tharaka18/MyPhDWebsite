@@ -23,47 +23,29 @@ This is my IDP to reach my research targets and building towards my overall care
 
 ###### TIMELINE, GOAL AND ACTION TO BE TAKEN 
 
-(1). 3 to 5 years: Sustaining a research grant and running independent studies related to my PhD work 
+(1). 3 to 4 years: Complete my PhD successfully within this timeframe 
 
-- Learn how to write a compelling grant proposal
+(2). 3 year: Complete at least two manuscripts
 
--	Read and research about the latest techniques in the field of agriculture biodiversity studies
+(3). 2 year: Complete at least two manuscripts
 
-(2). 1 year: Successfully complete the PhD qualifying examination
+(4). 1 year: Successfully complete my PhD qualifying examination
 
--	Draft a well-researched proposal 
+(5). 1 year: Become proficient in GIS
 
--	Prepare for questions that may be asked about the study by reading and preparing references to cite 
+(6). 1 year: Explore more on Bayesian statistics, 
 
-(3). 1 year: Become proficient in GIS, Explore more on Bayesian statistics, and Explore Python
+(7). 3 months to 1 year: Chapter 1A: Effects of animals on biomass removal
+Q. Does animal removal or animal diversity affect ecosystem functioning?
 
--	Take up NUS course related to GIS in ecological landscapes
+(8). 3 to 6 months: Chapter 1B: Contrasting functional structure of dung beetle assemblages associated to different land-use types 
 
--	Complete reading and practicing the books I bought 
+Aim 1. Studying underlying assembly mechanisms of dung beetle communities across different land-use types (i.e. logged forests, oil palm plantations and riparian areas) using both taxonomical (i.e. species richness and diversity) and functional diversity metrics (functional richness, evenness, divergence, redundancy) in multiple year sampling. Functional diversity metrics and their deviation from the predicted values will be measured by a null model approach.  
 
--	Take an online course 
+Aim 2. Studying of functional beta-diversity: test functional homogenization among the communities as a result of different land-use types across multiple sampling years. 
 
-(4). 2 year: Complete at least two manuscripts
-
--	Agricultural risk review 
-
--	Analyzing the questionnaire survey data
-
-(5). 3 months: Obtain approval for manuscript from AGEE
-
--	Read more references related to the manuscript to respond to the reviewer’s comments 
-
-(6). 3 months: Draft a well-researched and thoroughly referenced PhD proposal, and Draft interview questions for PhD study’s questionnaire survey 
-
--	Continue reading articles related to the field to stay updated in the latest techniques 
-
--	Research methods to craft a meaningful and robust questionnaire
-
--	Reach out to contacts in this field (in Sri Lanka, China) to facilitate future data collection  
-
-(7). 6 months: Submit functional diversity manuscript to a reputable journal (Journal of Applied Ecology or Functional Ecology) 
-
--	Read carefully all the co-authors’ concerns and edit the manuscript 
+Aim 3. Studying dung removal and associated functional traits across land-use types. 
+Complete three courses
 </div>
 <div class="col-sm-6">
 

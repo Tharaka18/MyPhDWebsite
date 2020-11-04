@@ -18,7 +18,7 @@ IMPORTANT: Here I will update studies that I may carry out during my PhD at ASE-
 
 17 | 09 | 2020 Last compiled: `r Sys.Date()`
 
-# Biodiversity in agricultural landscapes:Balancing crop production and biodiversity conservation through sustainable agroecosystems
+# Biodiversity in agricultural landscapes:Balancing crop production and biodiversity conservation through sustainable agroecosystems (big idea)
 
 #### Highlights
 
@@ -359,7 +359,7 @@ Table S1. Studies that investigated the effect of spatial crop (annual crops) he
 
 02 | 10 | 2020 Last compiled: `r Sys.Date()`
 
-### Alternative Project (Chapter 1B): Contrasting functional structure of dung beetle assemblages associated to different land-use types 
+# Alternative Project 1 (Chapter 1B): Contrasting functional structure of dung beetle assemblages associated to different land-use types 
 
 Aim 1. Studying underlying assembly mechanisms of dung beetle communities across different land-use types (i.e. logged forests, oil palm plantations and riparian areas) using both taxonomical (i.e. species richness and diversity) and functional diversity metrics (functional richness, evenness, divergence, redundancy) in multiple year sampling. Functional diversity metrics and their deviation from the predicted values will be measured by a null model approach.  
 
@@ -369,86 +369,81 @@ Aim 3. Studying dung removal and associated functional traits across land-use ty
 
 #### Description 
 
-
-![](images/project2alt.png)
+Waiting 
 
 #### Questions
 
-1.	
+1. XXX
 
-2.	
+2. XXX
 
 #### Hypotheses
 
-1.	
+1. XXX	
 
-2. 
+2. XXX
 
 #### Experimental Design
 
- 
+XXXXX
 
 #### Study sites
 
-
+XXXX
 
 #### Variables
 
-
+XXXX
 
 #### Data Analysis
 
+XXXXX
 
+#### Preliminary result
 
+![](images/project2alt.png) 
 
 #### References
 
+XXXX
 
+XXXX
 
-## Alternative Project (Chapter 1A): Contrasting functional structure of dung beetle assemblages associated to different land-use types 
-
-Chapter 1A: Effects of animals on biomass removal
-
-Q. Does animal removal or animal diversity affect ecosystem functioning?
+# Alternative Project 2 (Chapter 1A): Effects of insects/arthropods removal on ecosystem functioning
 
 
 #### Description 
 
-
-![](images/.png)
+XXXX
 
 #### Questions
 
-1.	
+1.	XXXX
 
-2.	
+2.	XXXX
 
 #### Hypotheses
 
-1.	
+1.	XXXX
 
-2. 
+2. XXXX
 
 #### Experimental Design
 
- 
+XXXX
 
 #### Study sites
 
-
+XXXX
 
 #### Variables
 
-
+XXXX
 
 #### Data Analysis
 
-
-
+XXXX
 
 #### References
 
-
-
-
-
+XXXX

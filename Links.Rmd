@@ -3,25 +3,37 @@ title: "Resources"
 output: html_document
 ---
 
-### Mata analysis
+### Meta analysis
 
-1. Improving the credibility of meta-analysis: https://www.youtube.com/watch?v=n7of0iXGZ-Y
+1. Getting Started with Meta-Analysis in R: https://rstudio-pubs-static.s3.amazonaws.com/28456_ea0b1faf0f4645cc8af81d81aaf0c1af.html
+
+2. Conducting a meta-analysis with R: https://www.youtube.com/watch?v=d1pYHfCKhyA&t=2s
+
+3. Improving the credibility of meta-analysis: https://www.youtube.com/watch?v=n7of0iXGZ-Y
 
 ### R Packages
 
-1. DHARMa: https://cran.r-project.org/web/packages/DHARMa/vignettes/DHARMa.html 
+1. brms: https://cran.r-project.org/web/packages/brms/brms.pdf
+
+2. metafor: https://cran.r-project.org/web/packages/metafor/metafor.pdf
+
+3. DHARMa: https://cran.r-project.org/web/packages/DHARMa/vignettes/DHARMa.html 
 
 ### GitHub
 
-1. 
+1. Prof. Anne Chao: https://github.com/AnneChao
+
+2. Prof. Florian Hartig: https://github.com/florianhartig?tab=repositories
+
+3. Paul Buerkner (brms): https://github.com/paul-buerkner/brms
 
 ### Blogs 
 
 1. Tropical ECOLOGY & Entomology LAB at NTU: https://teelabntu.wixsite.com/home
 
-2. 
+2. Sean C. Anderson: https://seananderson.ca/
 
-3. 
+3. Theoretical Ecology: https://theoreticalecology.wordpress.com/2018/06/06/an-introduction-to-machine-learning-with-keras-in-r/
 
 
 

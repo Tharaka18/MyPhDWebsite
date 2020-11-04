@@ -20,7 +20,7 @@ IMPORTANT: Here I will update studies that I may carry out during my PhD at ASE-
 
 # Biodiversity in agricultural landscapes:Balancing crop production and biodiversity conservation through sustainable agroecosystems
 
-## Highlights
+#### Highlights
 
 ●	Biodiversity-mediated benefits for agricultural production/yield will be measured and compared in both large-scale monoculture and heterogenous smallholder farmlands. 
 
@@ -33,7 +33,7 @@ IMPORTANT: Here I will update studies that I may carry out during my PhD at ASE-
 
 ●	Experiments will investigate below-ground to above-ground functional communities (i.e. earthworms, soil arthropods, dung beetles, bees, butterflies, dragonflies and herbaceous plants).
 
-### 1. BACKGROUND AND OBJECTIVES
+#### 1. BACKGROUND AND OBJECTIVES
 
 Agroecosystems can be considered as terrestrial ecosystems that are heavily modified over space and time by humans for human needs (Baillod et al., 2017; Firbank et al., 2008). Although agroecosystems are often managed based on their production in an economic sense, they can also be managed to minimize environmental/ecological problems by altering farming practices and land-use patterns. Thus, the understanding and management of agroecosystems require a multi-disciplinary approach that takes into consideration both ecological and human factors. Moreover, the environmental features which affect biodiversity vary depending on taxon, functional group, species, parameter of interest, and are scale-dependent (Burgess and Maron, 2016; Gonthier et al., 2014). Consideration of multiple biological, ecological, and social measurements, as well as multiple spatial scales, is crucial to avoid biased or misleading conclusions.
 

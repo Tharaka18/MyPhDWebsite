@@ -350,7 +350,7 @@ Zhang, W., Ricketts, T.H., Kremen, C., Carney, K., Swinton, S.M., 2007. Ecosyste
 
 02 | 10 | 2020 Last compiled: `r Sys.Date()`
 
-## Alternative Project (Chapter 1B): Contrasting functional structure of dung beetle assemblages associated to different land-use types 
+### Alternative Project (Chapter 1B): Contrasting functional structure of dung beetle assemblages associated to different land-use types 
 
 Aim 1. Studying underlying assembly mechanisms of dung beetle communities across different land-use types (i.e. logged forests, oil palm plantations and riparian areas) using both taxonomical (i.e. species richness and diversity) and functional diversity metrics (functional richness, evenness, divergence, redundancy) in multiple year sampling. Functional diversity metrics and their deviation from the predicted values will be measured by a null model approach.  
 

@@ -411,6 +411,7 @@ XXXX
 
 # Alternative Project 2 (Chapter 1A): Effects of insects/arthropods removal on ecosystem functioning
 
+XXX
 
 #### Description 
 
@@ -420,11 +421,11 @@ XXXX
 
 1.	XXXX
 
-2.	XXXX
+2. XXXX
 
 #### Hypotheses
 
-1.	XXXX
+1. XXXX
 
 2. XXXX
 

@@ -37,7 +37,9 @@ IMPORTANT: Here I will update studies that I may carry out during my PhD at ASE-
 
 Agroecosystems can be considered as terrestrial ecosystems that are heavily modified over space and time by humans for human needs (Baillod et al., 2017; Firbank et al., 2008). Although agroecosystems are often managed based on their production in an economic sense, they can also be managed to minimize environmental/ecological problems by altering farming practices and land-use patterns. Thus, the understanding and management of agroecosystems require a multi-disciplinary approach that takes into consideration both ecological and human factors. Moreover, the environmental features which affect biodiversity vary depending on taxon, functional group, species, parameter of interest, and are scale-dependent (Burgess and Maron, 2016; Gonthier et al., 2014). Consideration of multiple biological, ecological, and social measurements, as well as multiple spatial scales, is crucial to avoid biased or misleading conclusions.
 
+
 ![](images/sd.png) 
+
 
 Figure 1. Conceptual diagram of the project representing major elements and their interactions that influence biodiversity in agroecosystems. Earthworms, soil arthropods, dung beetles, bees, butterflies, dragonflies and herbaceous plants are selected as taxa for the measure of biodiversity because of their role in ecosystem services and the ease of sampling (see Fahrig et al., 2015; Phillips et al., 2019). Solid and dotted arrows indicate direct (and strong), and indirect effects, respectively. Each box or circle represents abiotic or biotic elements in agroecosystems, respectively. Two elements belonging to the human dimension are considered neither abiotic nor biotic and indicated with a curved square box. Yellow boxes are elements that will be directly surveyed in this project. Farming practice and productivity will be indirectly measured through soil analysis and social survey.	
 
@@ -346,6 +348,13 @@ Weibull, A., Östman, Ö., Granqvist, Å., 2003. Species richness in agroecosyst
 Woodcock, B.A., Garratt, M.P.D., Powney, G.D., Shaw, R.F., Osborne, J.L., Soroka, J., Lindström, S.A.M., Stanley, D., Ouvrard, P., Edwards, M.E., Jauker, F., McCracken, M.E., Zou, Y., Potts, S.G., Rundlöf, M., Noriega, J.A., Greenop, A., Smith, H.G., Bommarco, R., van der Werf, W., Stout, J.C., Steffan-Dewenter, I., Morandin, L., Bullock, J.M., Pywell, R.F., 2019. Meta-analysis reveals that pollinator functional diversity and abundance enhance crop pollination and yield. Nat. Commun. 10, 1–10. https://doi.org/10.1038/s41467-019-09393-6
 
 Zhang, W., Ricketts, T.H., Kremen, C., Carney, K., Swinton, S.M., 2007. Ecosystem services and dis-services to agriculture. Ecol. Econ. 64, 253–260. https://doi.org/10.1016/j.ecolecon.2007.02.024
+
+
+#### Supplementary Table
+
+Table S1. Studies that investigated the effect of spatial crop (annual crops) heterogeneity (number and evenness of crop types) on biodiversity. For the full references, please see page 12. *Multiple = multidiversity (including plants). 
+
+![](images/sup.png)
 
 
 02 | 10 | 2020 Last compiled: `r Sys.Date()`
